@@ -4,6 +4,9 @@ In this project, I've built a predictive model for the salaries of data professi
 
 I have performed several regression tasks and gained hands-on experience in Exploratory Data Analysis (EDA), feature engineering, data preprocessing, model evaluation, and model development.
 
+## Video Presentation
+
+https://github.com/CodeWithCharan/Salary-Predicition-Project/assets/106027109/13dce69d-e629-4fb8-bc17-b7f0aca33a84
 
 ## DATASET
 This dataset is taken from : [Mentorness Internship Program](https://drive.google.com/file/d/1qu4vWboJBgceI07k78I8Zr-eZgrsfUf3/view?usp=sharing) <br/>
